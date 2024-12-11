@@ -1,0 +1,82 @@
+header {
+
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 20px;
+        h2 {
+            color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+        }
+    }
+}
+
+body {
+    background-color: #F1F1F1;;
+}
+
+.s1 {
+    .container {
+        .fotoebi {
+            display: flex;
+            justify-content: flex-start;
+            gap: 30px;
+        }
+
+        h6 {
+            color: #000;
+            font-family: Roboto;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-top: 30px;
+        }
+        img {
+           margin-top: 30px;
+        }
+    }
+}
+
+.container {
+    max-width: 1165px;
+    width: 1165px;
+    margin: 0 auto;
+}
+
+.s2 {
+    .myflex {
+        display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    }
+
+    .divi {
+        position: relative;
+        .overlay {
+            width: 238px;
+            position: absolute;
+            top: 70px;
+            left: 37px;
+            color: #8A8787;
+            font-family: Roboto;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+
+        img {
+            margin-top: 10px;
+            }
+        h3 {
+             margin-left: 28px;
+             margin-top: -16px
+            }    
+        }
+    }
+}

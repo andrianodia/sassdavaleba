@@ -1,2 +1,0 @@
-# sassdavaleba
-sass davaleba
