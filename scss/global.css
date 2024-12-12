@@ -210,4 +210,64 @@ body {
 .s2 .divi .overlay h3 {
   margin-left: 28px;
   margin-top: -16px;
+}
+
+.s3 h5 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.s3 .potoebisdivi {
+  display: flex;
+  gap: 25px;
+}
+.s3 .r1 {
+  margin-bottom: 30px;
+}
+.s3 .r2 {
+  margin-bottom: 100px;
+}
+.s3 .r3 {
+  margin-bottom: 100px;
+}
+
+footer {
+  background-color: #243043;
+  width: 100%;
+  margin-top: 40px;
+  height: 201px;
+}
+footer p {
+  color: #818687;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 15px;
+}
+footer .warwerebi {
+  display: flex;
+  align-items: flex-start;
+  gap: 120px;
+}
+footer .warwerebi1 {
+  margin-top: 60px;
+}
+footer h3 {
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 60px;
+}
+footer img {
+  margin-left: 580px;
 }/*# sourceMappingURL=global.css.map */
